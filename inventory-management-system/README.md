@@ -14,4 +14,17 @@ This project demonstrates the use of **structures, arrays, and modular functions
 ---
 
 ## Folder Structure
+inventory-management-system/
+│── src/
+│ └── main.c
+│── REPORT.md
+│── README.md
 
+
+---
+
+## How to Run
+```bash
+cd inventory-management-system/src
+gcc main.c -o inventory
+./inventory
